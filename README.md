@@ -12,22 +12,26 @@
 
 **Synthara** based on AI-MemeVerse 3.0, our aim is to enable everyone to create and own their meme virtual humans by combining AI-Agent with 3D virtual humans, promoting meme culture to evolve into a new form of digital identity and economic system in the wave of Web3.
 
-## MEME Virtual Human
+## Virtual Human
 
 By integrating AI, 3D virtual humans, and Web3 features, we create a virtual social and creative platform centered around meme culture. Our core philosophy is that 'everyone can create and interact with their own virtual meme human, making memes a unique digital asset and identity symbol.'
 
-## Uses of MEME Virtual Humans
+<p align="center">
+    <img src="./assets/3d-agent.png">
+</p>
 
-### MEME Virtual Human Applications
+## Uses of Virtual Humans
+
+### Virtual Human Applications
 Each meme character, as an NFT, can generate motion emojis, short videos, and bring tipping revenue. Users can create sub-brands based on virtual meme humans (such as exclusive stickers and merchandise) and earn revenue sharing.
 
 ### NFT Trading
 Each meme virtual human is a tradable NFT with upgradeability (unlocking new actions, story narratives, and decorations through tasks).
 
-## Meme Verse 3.0 Product Form
+## Verse 3.0 Product Form
 By integrating AI, 3D virtual humans, and Web3 features, we create a virtual social and creative platform centered around meme culture. Our core philosophy is that 'everyone can create and interact with their own virtual meme human, making memes a unique digital asset and identity symbol.'
 
-### AI-Driven Meme Creation
+### AI-Driven Creation
 - Users generate 3D virtual meme characters with unique styles and expressions through brief text prompts (like ChatGPT instructions).
 - AI-Agent supports instant optimization: generating diverse clothing, unique lines, or actions to adapt to meme trends.
 
