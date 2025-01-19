@@ -56,4 +56,4 @@ Use Web3 voting mechanisms (DAO) to screen meme content, ensuring the community 
 
 ## Link
 
-- [SyntharaLabs website](https://syntharalabs.io)
+- [SyntharaLabs website](https://www.syntharalabs.io)
