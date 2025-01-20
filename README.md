@@ -22,11 +22,11 @@ By integrating AI, 3D virtual humans, and Web3 features, we create a virtual soc
 
 ## Uses of Virtual Humans
 
-### Virtual Human Applications
-Each meme character, as an NFT, can generate motion emojis, short videos, and bring tipping revenue. Users can create sub-brands based on virtual meme humans (such as exclusive stickers and merchandise) and earn revenue sharing.
+### AI-Agent-Driven Virtual Human Interaction
+Virtual humans possess emotional expression, personalized customization, and task execution capabilities, offering entertainment, service, and monetizable applications.
 
-### NFT Trading
-Each meme virtual human is a tradable NFT with upgradeability (unlocking new actions, story narratives, and decorations through tasks).
+### Immersive Entertainment and Socialization
+Users can participate in personalized interactive events like competitions, creative challenges, and virtual live streams through their virtual humans.
 
 ## Verse 3.0 Product Form
 By integrating AI, 3D virtual humans, and Web3 features, we create a virtual social and creative platform centered around meme culture. Our core philosophy is that 'everyone can create and interact with their own virtual meme human, making memes a unique digital asset and identity symbol.'
